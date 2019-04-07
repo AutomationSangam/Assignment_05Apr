@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Assignment Test Automation Test Suite" duration-ms="227280" started-at="2019-04-07T14:44:37Z" finished-at="2019-04-07T14:48:24Z">
+    <groups>
+    </groups>
+    <test name="Assignment Test Cases" duration-ms="227280" started-at="2019-04-07T14:44:37Z" finished-at="2019-04-07T14:48:24Z">
+      <class name="com.assignment.qa.testcases.SearchResultPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.qa.testcases.SearchResultPageTest@68be2bc2]" name="setup" is-config="true" duration-ms="29138" started-at="2019-04-07T20:14:58Z" finished-at="2019-04-07T20:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titletest()[pri:0, instance:com.assignment.qa.testcases.SearchResultPageTest@68be2bc2]" name="titletest" duration-ms="12486" started-at="2019-04-07T20:15:28Z" finished-at="2019-04-07T20:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.qa.testcases.SearchResultPageTest@68be2bc2]" name="teardown" is-config="true" duration-ms="789" started-at="2019-04-07T20:15:40Z" finished-at="2019-04-07T20:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.qa.testcases.SearchResultPageTest -->
+      <class name="com.assignment.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.qa.testcases.HomePageTest@20e2cbe0]" name="setup" is-config="true" duration-ms="12487" started-at="2019-04-07T20:14:37Z" finished-at="2019-04-07T20:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pagetitletest()[pri:0, instance:com.assignment.qa.testcases.HomePageTest@20e2cbe0]" name="pagetitletest" duration-ms="7912" started-at="2019-04-07T20:14:50Z" finished-at="2019-04-07T20:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagetitletest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.qa.testcases.HomePageTest@20e2cbe0]" name="teardown" is-config="true" duration-ms="853" started-at="2019-04-07T20:14:58Z" finished-at="2019-04-07T20:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.qa.testcases.HomePageTest -->
+      <class name="com.assignment.qa.testcases.FifthPropertyPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="setup" is-config="true" duration-ms="42549" started-at="2019-04-07T20:15:41Z" finished-at="2019-04-07T20:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="agentnametest()[pri:1, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="agentnametest" duration-ms="97" started-at="2019-04-07T20:16:23Z" finished-at="2019-04-07T20:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agentnametest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="teardown" is-config="true" duration-ms="773" started-at="2019-04-07T20:16:23Z" finished-at="2019-04-07T20:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="setup" is-config="true" duration-ms="37417" started-at="2019-04-07T20:16:24Z" finished-at="2019-04-07T20:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="phonnotest()[pri:2, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="phonnotest" duration-ms="68" started-at="2019-04-07T20:17:02Z" finished-at="2019-04-07T20:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phonnotest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="teardown" is-config="true" duration-ms="827" started-at="2019-04-07T20:17:02Z" finished-at="2019-04-07T20:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="setup" is-config="true" duration-ms="39530" started-at="2019-04-07T20:17:03Z" finished-at="2019-04-07T20:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logotest()[pri:3, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="logotest" duration-ms="84" started-at="2019-04-07T20:17:42Z" finished-at="2019-04-07T20:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logotest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="teardown" is-config="true" duration-ms="927" started-at="2019-04-07T20:17:42Z" finished-at="2019-04-07T20:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="setup" is-config="true" duration-ms="35328" started-at="2019-04-07T20:17:43Z" finished-at="2019-04-07T20:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="compareagentvaluetest()[pri:4, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="compareagentvaluetest" duration-ms="5159" started-at="2019-04-07T20:18:18Z" finished-at="2019-04-07T20:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareagentvaluetest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.qa.testcases.FifthPropertyPageTest@28feb3fa]" name="teardown" is-config="true" duration-ms="791" started-at="2019-04-07T20:18:24Z" finished-at="2019-04-07T20:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.qa.testcases.FifthPropertyPageTest -->
+    </test> <!-- Assignment Test Cases -->
+  </suite> <!-- Assignment Test Automation Test Suite -->
+</testng-results>
